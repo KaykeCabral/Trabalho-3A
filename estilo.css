@@ -11,6 +11,14 @@ background: rgb(14,40,152);
 background: linear-gradient(180deg, rgba(14,40,152,1) 0%, rgba(5,10,78,1) 42%, rgba(10,4,70,1) 100%, rgba(25,0,255,0) 100%);
 
 }
+.cabeçalho{
+    display: flex;
+    background-color: rgba(39, 40, 135, 0.559);
+    justify-content: space-around;
+    padding: 24px 0
+    ;
+
+}
 
 
 
