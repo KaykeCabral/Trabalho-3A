@@ -30,6 +30,7 @@ background: linear-gradient(180deg, rgba(14,40,152,1) 0%, rgba(5,10,78,1) 42%, r
     color: white;
     justify-content: center;
     display: flex;
+    text-align: center;
 }
 
 .cabeçalho-lista{
