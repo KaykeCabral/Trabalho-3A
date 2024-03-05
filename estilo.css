@@ -27,6 +27,12 @@ background: linear-gradient(180deg, rgba(14,40,152,1) 0%, rgba(5,10,78,1) 42%, r
 
 .cabeçalho-titulo{
     color: white;
-    justify-content: center;
 }
 
+.cabeçalho-lista{
+    display: inline-block;
+    margin: 0 14px;
+    font-size: 24px;
+    color: white;
+
+}
