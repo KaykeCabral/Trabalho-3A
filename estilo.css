@@ -15,7 +15,7 @@ background: linear-gradient(180deg, rgba(14,40,152,1) 0%, rgba(5,10,78,1) 42%, r
     display: flex;
     background-color: rgba(39, 40, 135, 0.559);
     justify-content: space-around;
-    padding: 24px 0;
+    padding: 30px 0;
     font-size: 100px;
 
 }
