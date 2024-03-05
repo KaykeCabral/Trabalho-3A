@@ -42,6 +42,6 @@ background: linear-gradient(180deg, rgba(14,40,152,1) 0%, rgba(5,10,78,1) 42%, r
 }
 
 .texto{
-color: white;
-
+    color: white;
+    font-size: 18px;
 }
