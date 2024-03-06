@@ -23,7 +23,7 @@ background: linear-gradient(180deg, rgba(14,40,152,1) 0%, rgba(5,10,78,1) 42%, r
 .cabeçalho-imagem{
     width: 10%;
     height: 5%;
-
+    
 }
 
 .cabeçalho-titulo{
@@ -32,7 +32,7 @@ background: linear-gradient(180deg, rgba(14,40,152,1) 0%, rgba(5,10,78,1) 42%, r
     display: flex;
     text-align: center;
     line-height: 1.5;
-
+    font-size: 30px;
 }
 
 .cabeçalho-lista{
